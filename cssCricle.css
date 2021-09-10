@@ -1,0 +1,71 @@
+.oderform{
+   
+    max-width:30rem;
+    border-radius: .5rem;
+
+    
+    border:.1rem solid rgba(0,0,0,.2);
+    background:#fff;
+    padding:1.5rem;
+    margin:120px auto;
+    
+}
+.inputBox .input{
+    width:430px;
+}
+.inputBox .input span{
+    display:block;
+    padding:.5rem 0;
+    font-size: 1.5rem;
+    color:rgb(19, 15, 15)
+}
+
+.inputBox .input input,
+.inputBox .input textarea{
+    background:#eee;
+    border-radius: .5rem;
+    padding:1rem;
+    font-size: 1.6rem;
+    color:#000;
+    text-transform: none;
+    margin-bottom: 1rem;
+    width:100%;
+}
+.inputBox .input input:focus,
+.inputBox .input textarea:focus{
+    border:.1rem solid #000;
+}
+
+.inputBox .input textarea{
+    height:20rem;
+    resize: none;
+}
+
+.btn{
+    padding: 1rem;
+    background-color: #eee;
+    text-transform: none;
+    margin-top: 0;
+    height: 60px;
+    width: 140px;
+   
+}
+.btn-btn{
+    font-weight: 10px;
+    color: rgb(10, 8, 8);
+   
+}
+.spans{
+    max-width:30rem;
+    border-radius: .5rem;
+
+    
+    border:.1rem solid rgba(0,0,0,.2);
+    background:#fff;
+    padding:1.5rem;
+    margin:12px auto;
+    
+    
+    
+}
+
